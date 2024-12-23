@@ -1,0 +1,51 @@
+# Ignorar todas las carpetas node_modules en el proyecto
+**/node_modules/
+
+# Ignorar archivos de dependencias y bloqueos (opcional si no quieres que se rastreen)
+**/package-lock.json
+
+# Ignorar carpetas y archivos generados por compiladores o herramientas
+**/dist/
+**/build/
+**/.cache/
+**/out/
+
+# Ignorar configuraciones del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ignorar configuraciones del entorno de desarrollo
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Ignorar logs
+**/logs/
+**/*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar IDEs y herramientas específicas
+**/.idea/
+**/.vscode/
+**/.history/
+
+# Ignorar archivos temporales y de backups
+*.swp
+*.tmp
+*.bak
+*.backup
+*.orig
+*.rej
+
+# Ignorar resultados de pruebas
+**/coverage/
+*.lcov
+
+# Ignorar archivos específicos de macOS
+*.DS_Store
+
+# Ignorar carpetas relacionadas con servicios de cloud (si no las necesitas en el control de versiones)
+**/.firebase/
+**/.vercel/
