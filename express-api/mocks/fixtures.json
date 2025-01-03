@@ -1,0 +1,1275 @@
+[
+    {
+        "fixture": {
+            "id": 1295210,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T09:15:00+00:00",
+            "timestamp": 1735290900,
+            "periods": {
+                "first": 1735290900,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 496,
+            "name": "Liga Alef",
+            "country": "Israel",
+            "logo": "https://media.api-sports.io/football/leagues/496.png",
+            "flag": "https://media.api-sports.io/flags/il.svg",
+            "season": 2024,
+            "round": "North - 12"
+        },
+        "teams": {
+            "home": {
+                "id": 6151,
+                "name": "Hapoel Bnei Zalafa",
+                "logo": "https://media.api-sports.io/football/teams/6151.png",
+                "winner": false
+            },
+            "away": {
+                "id": 6164,
+                "name": "Hapoel Migdal HaEmek",
+                "logo": "https://media.api-sports.io/football/teams/6164.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": [
+            {
+                "time": {
+                    "elapsed": 27,
+                    "extra": null
+                },
+                "team": {
+                    "id": 6164,
+                    "name": "Hapoel Migdal HaEmek",
+                    "logo": "https://media.api-sports.io/football/teams/6164.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "Y. Tawaba"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            }
+        ]
+    },
+    {
+        "fixture": {
+            "id": 1268704,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T08:30:00+00:00",
+            "timestamp": 1735288200,
+            "periods": {
+                "first": 1735288200,
+                "second": 1735291800
+            },
+            "venue": {
+                "id": 2749,
+                "name": "Stadion GOR Haji Agus Salim",
+                "city": "Padang"
+            },
+            "status": {
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 70,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 274,
+            "name": "Liga 1",
+            "country": "Indonesia",
+            "logo": "https://media.api-sports.io/football/leagues/274.png",
+            "flag": "https://media.api-sports.io/flags/id.svg",
+            "season": 2024,
+            "round": "Regular Season - 17"
+        },
+        "teams": {
+            "home": {
+                "id": 2456,
+                "name": "Semen Padang",
+                "logo": "https://media.api-sports.io/football/teams/2456.png",
+                "winner": false
+            },
+            "away": {
+                "id": 2438,
+                "name": "Arema FC",
+                "logo": "https://media.api-sports.io/football/teams/2438.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 2
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": [
+            {
+                "time": {
+                    "elapsed": 18,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2456,
+                    "name": "Semen Padang",
+                    "logo": "https://media.api-sports.io/football/teams/2456.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "F. Juliansyah"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "R. Ariansyah"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 20,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "A. Syarif"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 26,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": 7027,
+                    "name": "C. Lokolingoy"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "S. Tuharea"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 33,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "S. Tuharea"
+                },
+                "assist": {
+                    "id": 369381,
+                    "name": "A. Fikri"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 42,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2456,
+                    "name": "Semen Padang",
+                    "logo": "https://media.api-sports.io/football/teams/2456.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "M. Iqbal"
+                },
+                "assist": {
+                    "id": 29494,
+                    "name": "M. Majefat"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 54,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": 29272,
+                    "name": "A. Farisi"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 54,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "B. Setiawan"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "S. Tuharea"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "M. Iksan"
+                },
+                "assist": {
+                    "id": 29272,
+                    "name": "A. Farisi"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2438,
+                    "name": "Arema FC",
+                    "logo": "https://media.api-sports.io/football/teams/2438.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "S. G. Balinsa"
+                },
+                "assist": {
+                    "id": 29285,
+                    "name": "D. Santoso"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2456,
+                    "name": "Semen Padang",
+                    "logo": "https://media.api-sports.io/football/teams/2456.png"
+                },
+                "player": {
+                    "id": 29519,
+                    "name": "B. Gatra"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "F. Juliansyah"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 2456,
+                    "name": "Semen Padang",
+                    "logo": "https://media.api-sports.io/football/teams/2456.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "D. Nofiansyah"
+                },
+                "assist": {
+                    "id": 29480,
+                    "name": "F. Saputra"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            }
+        ]
+    },
+    {
+        "fixture": {
+            "id": 1280722,
+            "referee": "Daniel Cook, Australia",
+            "timezone": "UTC",
+            "date": "2024-12-27T08:35:00+00:00",
+            "timestamp": 1735288500,
+            "periods": {
+                "first": 1735288500,
+                "second": 1735292100
+            },
+            "venue": {
+                "id": 123,
+                "name": "Coopers Stadium",
+                "city": "Adelaide"
+            },
+            "status": {
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 68,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 188,
+            "name": "A-League",
+            "country": "Australia",
+            "logo": "https://media.api-sports.io/football/leagues/188.png",
+            "flag": "https://media.api-sports.io/flags/au.svg",
+            "season": 2024,
+            "round": "Regular Season - 10"
+        },
+        "teams": {
+            "home": {
+                "id": 948,
+                "name": "Adelaide United",
+                "logo": "https://media.api-sports.io/football/teams/948.png",
+                "winner": null
+            },
+            "away": {
+                "id": 939,
+                "name": "Western Sydney Wanderers",
+                "logo": "https://media.api-sports.io/football/teams/939.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 2,
+                "away": 1
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": [
+            {
+                "time": {
+                    "elapsed": 31,
+                    "extra": null
+                },
+                "team": {
+                    "id": 948,
+                    "name": "Adelaide United",
+                    "logo": "https://media.api-sports.io/football/teams/948.png"
+                },
+                "player": {
+                    "id": 338007,
+                    "name": "E. Alagich"
+                },
+                "assist": {
+                    "id": 82014,
+                    "name": "B. Folami"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 34,
+                    "extra": null
+                },
+                "team": {
+                    "id": 948,
+                    "name": "Adelaide United",
+                    "logo": "https://media.api-sports.io/football/teams/948.png"
+                },
+                "player": {
+                    "id": 304119,
+                    "name": "A. Goodwin"
+                },
+                "assist": {
+                    "id": 20251,
+                    "name": "Z. Clough"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 45,
+                    "extra": 1
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": 1967,
+                    "name": "M. Antonsson"
+                },
+                "assist": {
+                    "id": 262960,
+                    "name": "N. Milanovic"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 47,
+                    "extra": null
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": 30585,
+                    "name": "G. Cleur"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 49,
+                    "extra": null
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": 26253,
+                    "name": "B. Borrello"
+                },
+                "assist": {
+                    "id": 7034,
+                    "name": "J. Clisby"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 55,
+                    "extra": null
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "A. Stajcic"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": 15803,
+                    "name": "B. Kraev"
+                },
+                "assist": {
+                    "id": 304770,
+                    "name": "O. Priestman"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 61,
+                    "extra": null
+                },
+                "team": {
+                    "id": 939,
+                    "name": "Western Sydney Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/939.png"
+                },
+                "player": {
+                    "id": 318717,
+                    "name": "Z. Sapsford"
+                },
+                "assist": {
+                    "id": 1967,
+                    "name": "M. Antonsson"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 67,
+                    "extra": null
+                },
+                "team": {
+                    "id": 948,
+                    "name": "Adelaide United",
+                    "logo": "https://media.api-sports.io/football/teams/948.png"
+                },
+                "player": {
+                    "id": 430127,
+                    "name": "A. Ayoubi"
+                },
+                "assist": {
+                    "id": 304119,
+                    "name": "A. Goodwin"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            }
+        ]
+    },
+    {
+        "fixture": {
+            "id": 1317399,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T08:30:00+00:00",
+            "timestamp": 1735288200,
+            "periods": {
+                "first": 1735288200,
+                "second": 1735291800
+            },
+            "venue": {
+                "id": null,
+                "name": "Shahid Barkat Stadium",
+                "city": "Gazipur"
+            },
+            "status": {
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 72,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 398,
+            "name": "Premier League",
+            "country": "Bangladesh",
+            "logo": "https://media.api-sports.io/football/leagues/398.png",
+            "flag": "https://media.api-sports.io/flags/bd.svg",
+            "season": 2025,
+            "round": "Regular Season - 5"
+        },
+        "teams": {
+            "home": {
+                "id": 25415,
+                "name": "Dhaka Wanderers",
+                "logo": "https://media.api-sports.io/football/teams/25415.png",
+                "winner": true
+            },
+            "away": {
+                "id": 5010,
+                "name": "Abahani Chittagong",
+                "logo": "https://media.api-sports.io/football/teams/5010.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": [
+            {
+                "time": {
+                    "elapsed": 32,
+                    "extra": null
+                },
+                "team": {
+                    "id": 5010,
+                    "name": "Abahani Chittagong",
+                    "logo": "https://media.api-sports.io/football/teams/5010.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "A. Ahmed"
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Card",
+                "detail": "Yellow Card",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 42,
+                    "extra": null
+                },
+                "team": {
+                    "id": 25415,
+                    "name": "Dhaka Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/25415.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "S. Ali"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "M. Shawon"
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 46,
+                    "extra": null
+                },
+                "team": {
+                    "id": 5010,
+                    "name": "Abahani Chittagong",
+                    "logo": "https://media.api-sports.io/football/teams/5010.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "I. S. Jitu"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "M. Robel Jr"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 54,
+                    "extra": null
+                },
+                "team": {
+                    "id": 5010,
+                    "name": "Abahani Chittagong",
+                    "logo": "https://media.api-sports.io/football/teams/5010.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "M. Rabby"
+                },
+                "assist": {
+                    "id": 121666,
+                    "name": "M. Shadhin"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 56,
+                    "extra": null
+                },
+                "team": {
+                    "id": 25415,
+                    "name": "Dhaka Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/25415.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "K. Rahad"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "S. Hossen"
+                },
+                "type": "subst",
+                "detail": "Substitution 1",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 60,
+                    "extra": null
+                },
+                "team": {
+                    "id": 25415,
+                    "name": "Dhaka Wanderers",
+                    "logo": "https://media.api-sports.io/football/teams/25415.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "M. Chowdhury"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "S. Bepari"
+                },
+                "type": "subst",
+                "detail": "Substitution 2",
+                "comments": null
+            },
+            {
+                "time": {
+                    "elapsed": 64,
+                    "extra": null
+                },
+                "team": {
+                    "id": 5010,
+                    "name": "Abahani Chittagong",
+                    "logo": "https://media.api-sports.io/football/teams/5010.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": "I. H. Rimon"
+                },
+                "assist": {
+                    "id": null,
+                    "name": "F. Ahmed"
+                },
+                "type": "subst",
+                "detail": "Substitution 3",
+                "comments": null
+            }
+        ]
+    },
+    {
+        "fixture": {
+            "id": 1317400,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T08:30:00+00:00",
+            "timestamp": 1735288200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Comilla Stadium",
+                "city": "Comilla"
+            },
+            "status": {
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 73,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 398,
+            "name": "Premier League",
+            "country": "Bangladesh",
+            "logo": "https://media.api-sports.io/football/leagues/398.png",
+            "flag": "https://media.api-sports.io/flags/bd.svg",
+            "season": 2025,
+            "round": "Regular Season - 5"
+        },
+        "teams": {
+            "home": {
+                "id": 5014,
+                "name": "Mohammedan Dhaka",
+                "logo": "https://media.api-sports.io/football/teams/5014.png",
+                "winner": true
+            },
+            "away": {
+                "id": 20780,
+                "name": "Fortis",
+                "logo": "https://media.api-sports.io/football/teams/20780.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": []
+    },
+    {
+        "fixture": {
+            "id": 1305055,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T09:00:00+00:00",
+            "timestamp": 1735290000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 128,
+                "name": "HBF Park",
+                "city": "Perth"
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 190,
+            "name": "A-League Women",
+            "country": "Australia",
+            "logo": "https://media.api-sports.io/football/leagues/190.png",
+            "flag": "https://media.api-sports.io/flags/au.svg",
+            "season": 2024,
+            "round": "Regular Season - 8"
+        },
+        "teams": {
+            "home": {
+                "id": 1969,
+                "name": "Perth Glory FC W",
+                "logo": "https://media.api-sports.io/football/teams/1969.png",
+                "winner": null
+            },
+            "away": {
+                "id": 22292,
+                "name": "Central Coast Mariners W",
+                "logo": "https://media.api-sports.io/football/teams/22292.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": []
+    },
+    {
+        "fixture": {
+            "id": 1307282,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T09:00:00+00:00",
+            "timestamp": 1735290000,
+            "periods": {
+                "first": 1735290000,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 2
+            }
+        },
+        "league": {
+            "id": 515,
+            "name": "U21 League 1",
+            "country": "Algeria",
+            "logo": "https://media.api-sports.io/football/leagues/515.png",
+            "flag": "https://media.api-sports.io/flags/dz.svg",
+            "season": 2024,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 10835,
+                "name": "JS Saoura U21",
+                "logo": "https://media.api-sports.io/football/teams/10835.png",
+                "winner": false
+            },
+            "away": {
+                "id": 10832,
+                "name": "CS Constantine U21",
+                "logo": "https://media.api-sports.io/football/teams/10832.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": [
+            {
+                "time": {
+                    "elapsed": 22,
+                    "extra": null
+                },
+                "team": {
+                    "id": 10832,
+                    "name": "CS Constantine U21",
+                    "logo": "https://media.api-sports.io/football/teams/10832.png"
+                },
+                "player": {
+                    "id": null,
+                    "name": null
+                },
+                "assist": {
+                    "id": null,
+                    "name": null
+                },
+                "type": "Goal",
+                "detail": "Normal Goal",
+                "comments": null
+            }
+        ]
+    },
+    {
+        "fixture": {
+            "id": 1318914,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-26T23:00:00+00:00",
+            "timestamp": 1735254000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Ken Cooke Ground",
+                "city": "Port of Spain"
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 591,
+            "name": "Pro League",
+            "country": "Trinidad-And-Tobago",
+            "logo": "https://media.api-sports.io/football/leagues/591.png",
+            "flag": "https://media.api-sports.io/flags/tt.svg",
+            "season": 2025,
+            "round": "Regular Season - 4"
+        },
+        "teams": {
+            "home": {
+                "id": 12559,
+                "name": "Police",
+                "logo": "https://media.api-sports.io/football/teams/12559.png",
+                "winner": null
+            },
+            "away": {
+                "id": 20974,
+                "name": "Prison Service",
+                "logo": "https://media.api-sports.io/football/teams/20974.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": []
+    },
+    {
+        "fixture": {
+            "id": 1328196,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2024-12-27T09:00:00+00:00",
+            "timestamp": 1735290000,
+            "periods": {
+                "first": 1735290000,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Deccan Arena",
+                "city": "Hyderabad"
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 3
+            }
+        },
+        "league": {
+            "id": 325,
+            "name": "Santosh Trophy",
+            "country": "India",
+            "logo": "https://media.api-sports.io/football/leagues/325.png",
+            "flag": "https://media.api-sports.io/flags/in.svg",
+            "season": 2024,
+            "round": "Quarter-finals"
+        },
+        "teams": {
+            "home": {
+                "id": 7169,
+                "name": "Kerala",
+                "logo": "https://media.api-sports.io/football/teams/7169.png",
+                "winner": null
+            },
+            "away": {
+                "id": 7166,
+                "name": "J & K",
+                "logo": "https://media.api-sports.io/football/teams/7166.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        },
+        "events": []
+    }
+]
